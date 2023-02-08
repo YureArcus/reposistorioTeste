@@ -2,3 +2,5 @@ Rua Alvacaz 255
 Rua Silvio Romero 140
 Rua Domingues Antonio Calabria 150
 Avenida Cleanto Vieira Gonçalves 1005
+Rua Rodrigues da Cunha 20
+
